@@ -1,0 +1,7 @@
+.row {
+  display: flex;
+  height: 200px;
+  align-items: center;
+  gap: 200px;
+  border-bottom: 1px solid;
+}
